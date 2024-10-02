@@ -1,0 +1,355 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                19
+            ]
+        ],
+        "date-time": "2023-12-19T23:22:49Z",
+        "timestamp": 1703028169328
+    },
+    "reference-count": 26,
+    "publisher": "Hindawi Limited",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        5,
+                        26
+                    ]
+                ],
+                "date-time": "2022-05-26T00:00:00Z",
+                "timestamp": 1653523200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100012166",
+            "name": "National Key R&D Program of China",
+            "doi-asserted-by": "crossref",
+            "award": [
+                "2018YFB1404100"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/501100012166",
+                    "id-type": "DOI",
+                    "asserted-by": "crossref"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                26
+            ]
+        ]
+    },
+    "abstract": "<jats:p>Broadcasting voice is used to convey ideas and emotions. In the selection process of broadcasting and hosting professionals, the vocal timbre is an important index. The subjective evaluation method is widely used, but the selection results have certain subjectivity and uncertainty. In this paper, an objective evaluation method of broadcasting vocal timbre is proposed. Firstly, the broadcasting vocal timbre database is constructed on Chinese phonetic characteristics. Then, the timbre feature selection strategy is presented based on human vocal mechanism, and the broadcast timbre characteristics are divided into three categories, which include source parameters, vocal tract parameters, and human hearing parameters. Finally, the three models of hidden Markov model (HMM), Gaussian Mixture Model-General Background Model (GMM-UBM), and long short-term memory (LSTM) are exploited to evaluate the timbre of the broadcast by extracting timbre features and four timbre feature combinations. The experiments show that the selection of timbre features is scientific and effective. Moreover, the accuracy of the LSTM network using the deep learning algorithm in the objective evaluation of the broadcast timbre is better than the traditional HMM and GMM-UBM, and the proposed method can achieve about 95% accuracy rate in our database.</jats:p>",
+    "DOI": "10.1155/2022/7086599",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                26
+            ]
+        ],
+        "date-time": "2022-05-26T23:20:09Z",
+        "timestamp": 1653607209000
+    },
+    "page": "1-17",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": "Objective Evaluation Method of Broadcasting Vocal Timbre Based on Feature Selection",
+    "prefix": "10.1155",
+    "volume": "2022",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0001-5079-357X",
+            "authenticated-orcid": true,
+            "given": "Chaohui",
+            "family": "Lv",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "School of Information and Communication Engineering, Communication University of China, Beijing 100024, China"
+                },
+                {
+                    "name": "Key Laboratory of Acoustic Visual Technology and Intelligent Control System, Ministry of Culture and Tourism, Beijing 100024, China"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-6860-2097",
+            "authenticated-orcid": true,
+            "given": "Hua",
+            "family": "Lan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Information and Communication Engineering, Communication University of China, Beijing 100024, China"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-8595-3964",
+            "authenticated-orcid": true,
+            "given": "Ying",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Information and Communication Engineering, Communication University of China, Beijing 100024, China"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-2912-2864",
+            "authenticated-orcid": true,
+            "given": "Shengnan",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Information and Communication Engineering, Communication University of China, Beijing 100024, China"
+                }
+            ]
+        }
+    ],
+    "member": "98",
+    "reference": [
+        {
+            "issue": "9",
+            "key": "1",
+            "first-page": "1313",
+            "article-title": "CUCBNC: a broadcast news voice database introducing broadcasting knowledge",
+            "volume": "51",
+            "author": "W. He",
+            "year": "2011",
+            "journal-title": "Journal of Tsinghua University"
+        },
+        {
+            "key": "2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.14445/22315381/IJETT-V67I3P221"
+        },
+        {
+            "key": "3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/0305735617753996"
+        },
+        {
+            "key": "4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.apacoust.2019.107020"
+        },
+        {
+            "key": "5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/JSTSP.2019.2908700"
+        },
+        {
+            "key": "6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TASLP.2020.3016487"
+        },
+        {
+            "key": "7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TASLP.2020.3013105"
+        },
+        {
+            "key": "8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.knosys.2019.104943"
+        },
+        {
+            "key": "9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.eswa.2019.112840"
+        },
+        {
+            "key": "10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ACCESS.2019.2901812"
+        },
+        {
+            "key": "11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3906/elk-1906-118"
+        },
+        {
+            "key": "12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2021/2891303"
+        },
+        {
+            "key": "13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2021/1434347"
+        },
+        {
+            "key": "14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.apacoust.2019.107020"
+        },
+        {
+            "key": "15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.specom.2019.12.001"
+        },
+        {
+            "key": "16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/s21051740"
+        },
+        {
+            "key": "17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.apacoust.2019.107006"
+        },
+        {
+            "key": "18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2022/1167462"
+        },
+        {
+            "key": "19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00034-019-01074-5"
+        },
+        {
+            "key": "20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2022/9667506"
+        },
+        {
+            "key": "21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1587/transinf.2019EDP7234"
+        },
+        {
+            "key": "22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/s21155097"
+        },
+        {
+            "key": "23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00034-021-01697-7"
+        },
+        {
+            "key": "24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s13634-017-0515-7"
+        },
+        {
+            "key": "25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ACCESS.2020.2973541"
+        },
+        {
+            "key": "26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.23919/JCC.2019.08.009"
+        }
+    ],
+    "container-title": "Wireless Communications and Mobile Computing",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://downloads.hindawi.com/journals/wcmc/2022/7086599.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://downloads.hindawi.com/journals/wcmc/2022/7086599.xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://downloads.hindawi.com/journals/wcmc/2022/7086599.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                26
+            ]
+        ],
+        "date-time": "2022-05-26T23:20:13Z",
+        "timestamp": 1653607213000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.hindawi.com/journals/wcmc/2022/7086599/"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ghufran",
+            "family": "Ahmed",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                26
+            ]
+        ]
+    },
+    "references-count": 26,
+    "alternative-id": [
+        "7086599",
+        "7086599"
+    ],
+    "URL": "http://dx.doi.org/10.1155/2022/7086599",
+    "relation": {},
+    "ISSN": [
+        "1530-8677",
+        "1530-8669"
+    ],
+    "subject": [],
+    "container-title-short": "Wireless Communications and Mobile Computing",
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                26
+            ]
+        ]
+    }
+}
