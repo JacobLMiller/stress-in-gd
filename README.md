@@ -1,3 +1,6 @@
+# Stress in GD
+This repository is a work in progress to keep track of graph drawing and network visualization papers which utilize the stress metric.
+
 # SurVis - Visual Literature Browser
 
 ![Screenshot](/doc/survis.png)
