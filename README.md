@@ -42,24 +42,3 @@ Beck, Fabian; Koch, Sebastian; Weiskopf, Daniel: Visual Analysis and Disseminati
 
 * DOI: http://dx.doi.org/10.1109/TVCG.2015.2467757
 * Preview video: https://vimeo.com/136206061 
-
-## List of Literature Collections Using Survis
-
-* Dynamic Graph Visualization - http://dynamicgraphs.fbeck.com
-* Visualizing Group Structures in Graphs - http://go.visus.uni-stuttgart.de/groups-in-graphs/
-* Performance Visualization - http://idav.ucdavis.edu/~ki/STAR/
-* Visualization for Software Reuse - http://www.cos.ufrj.br/~schots/survis_reuse/
-* Set Visualization - http://www.cvast.tuwien.ac.at/~alsallakh/SetViz/literature/www/index.html
-* Visualizing High-Dimensional Data - http://www.sci.utah.edu/~shusenl/highDimSurvey/website/
-
-Please contact me (fabian.beck@visus.uni-stuttgart.de) if you know other collections using SurVis.
-
-## Contact
-
-Fabian Beck
-
-VISUS, University of Stuttgart
-
-fabian.beck@visus.uni-stuttgart.de
-
-http://research.fbeck.com
