@@ -17,7 +17,7 @@ roots = ['10.1007/978-3-540-31843-9_25', '10.1109/TVCG.2008.85', '10.1111/cgf.13
 seen  = set(roots)
 
 citations = list()
-for depth in range(7):
+for depth in range(3):
 
     metadata = list()
     for paper in roots:
