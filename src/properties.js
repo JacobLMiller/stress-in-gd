@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'Focus+Context for High Dimensional Data';
 
 /**
  * Relative path to the data directory
@@ -54,8 +54,8 @@ var editable = true;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'Sample literature collection for <b><a href="https://arxiv.org/abs/2408.04688" target="_blank">SurVis</a></b>',
-    id: 'ahmed2024'
+    // html: 'Literature collection for <b><a href="https://arxiv.org/abs/2408.04688" target="_blank">Stress in GD</a></b>',
+    // id: 'ahmed2024'
 };
 
 /**
